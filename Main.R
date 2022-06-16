@@ -38,3 +38,4 @@ incidenceRates <- computeIncidenceRatesUsingR(connectionDetails = connectionDeta
                                               cdmDatabaseSchema = cdmDatabaseSchema,
                                               cohortDatabaseSchema = cohortDatabaseSchema,
                                               cohortTable = cohortTable)
+# CCAE, downloading relevant data only: Computing incidence rates took 3.09 hours
