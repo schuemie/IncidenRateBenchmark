@@ -9,11 +9,11 @@ The toy example consists of computing incidence rates for a set of outcome cohor
 
 ## Outcome cohorts
 
-A set of 10 outcome cohorts have been predefined. These outcomes can be **recurring**, meaning that the same person can experience the same outcome more than once. 
+A set of 44 outcome cohorts have been predefined. These outcomes can be **recurring**, meaning that the same person can experience the same outcome more than once. 
 
 ## Target cohorts
 
-A set of 10 target cohorts have been defined. These cohorts can be **recurring**, meaning that the same person can enter the same cohort more than once.
+A set of 1 target cohort have been defined. These cohorts can be **recurring**, meaning that the same person can enter the same cohort more than once.
 
 ## Incidence rate computation
 
