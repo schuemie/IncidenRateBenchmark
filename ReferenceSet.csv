@@ -1,0 +1,46 @@
+conceptId,conceptName,type
+321588,Heart disease,outcome
+80180,Osteoarthritis,outcome
+80809,Rheumatoid arthritis,outcome
+255573,Chronic obstructive lung disease,outcome
+255848,Pneumonia,outcome
+444247,Venous thrombosis,outcome
+201820,Diabetes mellitus,outcome
+192671,Gastrointestinal hemorrhage,outcome
+197508,Malignant tumor of urinary bladder,outcome
+316139,Heart failure,outcome
+433736,Obesity,outcome
+443388,Malignant tumor of lung,outcome
+318800,Gastroesophageal reflux disease,outcome
+432571,Malignant lymphoma,outcome
+200962,Primary malignant neoplasm of prostate,outcome
+381591,Cerebrovascular disease,outcome
+317576,Coronary arteriosclerosis,outcome
+432867,Hyperlipidemia,outcome
+4006969,Acute respiratory disease,outcome
+435783,Schizophrenia,outcome
+4104000,Lesion of liver,outcome
+4030518,Renal impairment,outcome
+4112853,Malignant tumor of breast,outcome
+313217,Atrial fibrillation,outcome
+440383,Depressive disorder,outcome
+4212540,Chronic liver disease,outcome
+140168,Psoriasis,outcome
+4044013,Hematologic neoplasm,outcome
+4134440,Visual system disorder,outcome
+4279309,Substance abuse,outcome
+438409,Attention deficit hyperactivity disorder,outcome
+443392,Malignant neoplastic disease,outcome
+4185932,Ischemic heart disease,outcome
+81902,Urinary tract infectious disease,outcome
+316866,Hypertensive disorder,outcome
+4180790,Malignant tumor of colon,outcome
+4182210,Dementia,outcome
+201606,Crohn's disease,outcome
+440417,Pulmonary embolism,outcome
+81893,Ulcerative colitis,outcome
+197494,Viral hepatitis C,outcome
+439727,Human immunodeficiency virus infection,outcome
+321052,Peripheral vascular disease,outcome
+40481902,Malignant neoplasm of anorectum,outcome
+1713332,amoxicillin,target
