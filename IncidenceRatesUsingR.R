@@ -1,9 +1,9 @@
 require(dplyr)
 
-computeIncidenceRatesUsingSql <- function(connectionDetails, cdmDatabaseSchema, cohortDatabaseSchema, cohortTable) {
+computeIncidenceRatesUsingR <- function(connectionDetails, cdmDatabaseSchema, cohortDatabaseSchema, cohortTable) {
   startTime <- Sys.time()
 
-  cohorts <- downloadCohorts()
+  cohorts <- downloadCohorts(connectionDetails, cdmDatabaseSchema, cohortDatabaseSchema, cohortTable)
 
   delta <- Sys.time() - startTime
   message(paste("Computing incidence rates took", signif(delta, 3), attr(delta, "units")))

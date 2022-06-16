@@ -33,3 +33,8 @@ incidenceRates <- computeIncidenceRatesUsingSql(connectionDetails = connectionDe
 # readr::write_csv(incidenceRates, "incidenceRatesCcaeSql.csv")
 
 # Run benchmark using R --------------------------------------------------------
+source("IncidenceRatesUsingR.R")
+incidenceRates <- computeIncidenceRatesUsingR(connectionDetails = connectionDetails,
+                                              cdmDatabaseSchema = cdmDatabaseSchema,
+                                              cohortDatabaseSchema = cohortDatabaseSchema,
+                                              cohortTable = cohortTable)
